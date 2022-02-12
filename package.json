@@ -19,5 +19,9 @@
   "homepage": "https://github.com/ktny/zenn-content#readme",
   "dependencies": {
     "zenn-cli": "^0.1.94"
+  },
+  "volta": {
+    "node": "17.5.0",
+    "npm": "8.4.1"
   }
 }
