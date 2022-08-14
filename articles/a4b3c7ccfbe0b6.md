@@ -2,7 +2,7 @@
 title: "ISUCON11に参加して予選敗退しました"
 emoji: "📑"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["isucon", ]
+topics: ["isucon"]
 published: true
 ---
 
